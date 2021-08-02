@@ -1,4 +1,4 @@
-![Recurso 3](https://user-images.githubusercontent.com/65989119/127793533-57e6b673-6ba0-4263-bf09-1fb58a91d41d.png)
+![Recurso 4](https://user-images.githubusercontent.com/65989119/127794062-715a25e4-b1cb-44c1-8dde-171fc8fe06f7.png)
 
 
 ### Hi there 👋

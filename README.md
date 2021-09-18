@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Julio</h1>
 <h3 align="center">A passionate frontend developer from Buenos Aires Argentina</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliofranco9111&label=Profile%20views&color=0e75b6&style=flat" alt="juliofranco9111" /> </p>
 
 - 🔭 I’m currently working on **FUDO as Help Desk Agent**
 
@@ -22,8 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliofranco9111&label=Profile%20views&color=0e75b6&style=flat" alt="juliofranco9111" /> </p>
-
+![Sin-título-2](https://user-images.githubusercontent.com/65989119/133877982-79fa09fb-79b8-4bd4-9081-471b82fddce0.png)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliofranco9111&show_icons=true&locale=en" alt="juliofranco9111" /></p>

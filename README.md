@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliofranco9111&label=Profile%20views&color=0e75b6&style=flat" alt="juliofranco9111" /> </p>
 
-- 🔭 I’m currently working on **FUDO as Help Desk Agent**
+- 🔭 I’m currently working in **FUDO as Help Desk Agent**
 
-- 🌱 I’m currently learning developtment **Certified Tech Developer - Digital House**
+- 🌱 I’m currently studying developtment **Certified Tech Developer - Digital House**
 
 - 👨‍💻 All of my projects are available at [portfolio.link](portfolio.link)
 
-- 📫 Find me in gmail: **julio.franco9111@gmail.com**
+- 📫 Contact me in gmail: **julio.franco9111@gmail.com**
 
 - ⚡ Fun fact **I love play bass guitar and play soccer videogames**
 

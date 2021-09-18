@@ -1,4 +1,4 @@
-![Recurso 4](https://user-images.githubusercontent.com/65989119/127794062-715a25e4-b1cb-44c1-8dde-171fc8fe06f7.png)
+![Sin-título-2](https://user-images.githubusercontent.com/65989119/133877982-79fa09fb-79b8-4bd4-9081-471b82fddce0.png)
 
 
 <h1 align="center">Hi 👋, I'm Julio</h1>

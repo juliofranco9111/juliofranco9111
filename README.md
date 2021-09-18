@@ -12,11 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [**Portafolio**](https://juliofranco.vercel.app/proyectos)
 
-- 👨‍💻 All of my projects are available at <a href="https://juliofranco.vercel.app/proyectos" target="blank">**Portafolio**</a>
-
 - 📫 Contact me in gmail: **julio.franco9111@gmail.com**
 
-- ⚡ Fun fact **I love play bass guitar and play soccer videogames**
+- ⚡ Fun fact **I love play bass guitar and all about Dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

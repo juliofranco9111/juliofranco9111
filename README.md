@@ -1,10 +1,10 @@
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliofranco9111&label=Profile%20views&color=0e75b6&style=flat" alt="juliofranco9111" /> </p>
 <h1 align="left">Hi 👋, I'm Julio Franco</h1>
 <h3 align="left">A passionate UI Designer and Frontend developer from Buenos Aires Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliofranco9111&label=Profile%20views&color=0e75b6&style=flat" alt="juliofranco9111" /> </p>
+
 
 - 🔭 I’m currently working in **FUDO as Help Desk Agent**
 

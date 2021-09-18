@@ -1,8 +1,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Julio</h1>
-<h3 align="center">A passionate frontend developer from Buenos Aires Argentina</h3>
+<h1 align="left">Hi 👋, I'm Julio Franco</h1>
+<h3 align="left">A passionate UI Designer and Frontend developer from Buenos Aires Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliofranco9111&label=Profile%20views&color=0e75b6&style=flat" alt="juliofranco9111" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 📫 Find me in gmail: **julio.franco9111@gmail.com**
 
-- ⚡ Fun fact **I love play bass guitar**
+- ⚡ Fun fact **I love play bass guitar and play soccer videogames**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,4 @@
 ![Sin-título-2](https://user-images.githubusercontent.com/65989119/133877982-79fa09fb-79b8-4bd4-9081-471b82fddce0.png)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliofranco9111&show_icons=true&locale=en" alt="juliofranco9111" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=juliofranco9111&show_icons=true&locale=en" alt="juliofranco9111" /></p>

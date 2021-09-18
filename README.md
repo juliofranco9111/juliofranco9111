@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently studying developtment **Certified Tech Developer - Digital House**
 
-- 👨‍💻 All of my projects are available at [portfolio.link](https://juliofranco.vercel.app/proyectos)
+- 👨‍💻 All of my projects are available at [**Portafolio**](https://juliofranco.vercel.app/proyectos)
 
 - 📫 Contact me in gmail: **julio.franco9111@gmail.com**
 

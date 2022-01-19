@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working in **FUDO as Help Desk Agent**
+- 🔭 I’m currently working in **Despegar as Software Developer**
 
 - 🌱 I’m currently studying developtment **Certified Tech Developer - Digital House**
 

@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently studying developtment **Certified Tech Developer - Digital House**
 
-- 👨‍💻 All of my projects are available at [**Portafolio**](https://juliofranco.vercel.app)
-
 - 📫 Contact me in gmail: **julio.franco9111@gmail.com**
 
 - ⚡ Fun fact **I love play bass guitar and all about Dogs**

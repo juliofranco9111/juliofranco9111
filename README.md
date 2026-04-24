@@ -8,11 +8,7 @@
 
 - 🔭 I’m currently working in **Despegar as Software Developer**
 
-- 🌱 I’m currently studying developtment **Certified Tech Developer - Digital House**
-
 - 📫 Contact me in gmail: **julio.franco9111@gmail.com**
-
-- ⚡ Fun fact **I love play bass guitar and all about Dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
